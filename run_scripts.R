@@ -1,1 +1,1 @@
-print("An entry to the pipeline-try1")
+gprint("An entry to the pipeline-try1
